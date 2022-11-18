@@ -1,0 +1,95 @@
+body {
+  background-color: #D6D6D6;
+}
+#header {
+    background-color:#1B2021;
+    color:#EA7648;
+    text-align:left;
+    padding:20px;
+}
+#section {
+    width:100%;
+    float:left;
+    padding:10px;
+    font-family: 'Courier New', monospace;
+}
+#footer {
+    background-color:#1B2021;
+    color:#D6D6D6;
+    clear:both;
+    text-align:left;
+   padding:5px;	 	
+   
+}
+.sidenav {
+  width: 130px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 10px;
+  background: #1B2021;
+  overflow-x: hidden;
+  padding: 8px 0;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #EA7648;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #D6D6D6;
+}
+
+.main {
+  margin-left: 140px; /* Same as the width of the sidenav */
+  font-size: 20px; /* Increased text to enable scrolling */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 500px;
+  height: 360px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 60%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #EA7648;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
