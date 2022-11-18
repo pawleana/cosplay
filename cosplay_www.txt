@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cosplay</title>
+</head>
+<body style="background-color:#B1D9FD;">
+
+<h1 style="color:#203354;">Cosplay</h1>
+
+<p style="font-family:courier;">Cosplay (jap. コスプレ kosupure) – artystyczne hobby, w ramach którego osoby nazywane cosplayerami tworzą przebrania i wcielają się w postać fikcyjną. Termin ‘cosplay’ powstał w Japonii w 1984 roku, ale za początki tego zjawiska uważa się konwent 1st World Science Fiction Convention, który miał miejsce w Nowym Jorku w 1939 roku.</p>
+
+<p style="font-family:courier;">Cosplay często nazywany jest hobby, a samo cosplayowanie odnosić się może do każdej sytuacji, w której ważną rolę odgrywa jakiś strój i zmiana charakteru, a miejscem występu nie zawsze jest scena, np. gry fabularne (inaczej zwane RPG). Cosplayerzy inspiracje czerpią z wielu źródeł, przy czym najpopularniejszymi z nich są komiksy (w tym manga), anime, seriale telewizyjne, filmy aktorskie i animowane, książki oraz gry wideo.</p>
+
+<p style="font-family:courier;">Hobby to bardzo mocno rozwija się do dnia dzisiejszego. W latach 90. zyskał miano fenomenu w wielu częściach Azji, szczególnie w Japonii i po dziś dzień to właśnie z tą częścią świata jest najbardziej kojarzony.</p>
+
+<p style="font-family:courier;">Cosplayerów najczęściej można spotkać na zlotach fanów fantastyki oraz kultury azjatyckiej, na których organizowane są specjalne konkursy, w ramach których wybiera się najlepszy kostium i występ sceniczny. Czasami organizowane są wydarzenia dedykowane właśnie cosplayerom, a konkursów o charakterze międzynarodowym wciąż przybywa. Istnieją również specjalne strony internetowe i aplikacje skierowane konkretnie do pasjonatów cosplayu.</p> 
+
+<a href="https://www.polskieradio.pl/10/4891/Artykul/2905021,Cosplay-rzemioslo-swiata-gamingu-anime-i-fantasy">
+<img src="click.png" alt="Cosplay jako rzemiosło" style="width:42px;height:42px;">
+</a>
+
+<img src="https://pyrkon.pl/wp-content/uploads/2022/02/MLC_1122.jpg" alt="cosplay" width="512" height="342">
+
+
+
+
+<h3 style="color:#203354;">Kostiumy i gra aktorska</h3>
+
+<p style="font-family:courier;">Stroje, które tworzą cosplayerzy, mają bardzo zróżnicowaną tematykę, mogą powstawać z wielu materiałów i różnić się od siebie poziomem trudności wykonania. Przyjmuje się jednak, że stroje kojarzone z Halloween czy Mardi Gras nie są częścią cosplayu, ponieważ nie odnoszą się do odtworzenia stroju i usposobienia danej postaci, a skupiają na kulturze oraz symbolice danego święta.</p>
+
+<p style="font-family:courier;">Poza tworzeniem strojów, często bardzo szczegółowych, cosplayerzy starają się wcielić w postać, której strój szykują poprzez imitowanie jej manier czy języka ciała, szczególnych póz lub mówieniem o sobie jak o postaci.</p>
+
+<p style="font-family:courier;">Postaci, w które się wcielają cosplayerzy, mogą pochodzić z wielu źródeł, w tym komiksów, anime, seriali telewizyjnych, filmów aktorskich i animowanych oraz gier wideo. Równie często zdarzają się stroje inspirowane kreacjami z musicali, a nawet zespołami muzycznymi. Niektórzy cosplayerzy decydują się tworzenie własnych kreacji, na podstawie ilustracji lub opisów, które sami stworzyli. Inspiracje mogą mieć wiele źródeł, a nawet fuzją kilku gatunków, np. Wonder Woman w stroju kojarzonym ze Steampunkiem. Nie istnieją również bariery etniczne ani płciowe. W cosplayu każdy może być, kim chce.</p>
+
+<p style="font-family:courier;">Cosplayerzy najczęściej tworzą stroje w oparciu o grafikę lub zdjęcie referencyjne zwane potocznie ‘refką’. Każdy kostium to godziny pracy i poświęcenia, by strój był jak bardziej zbliżony do tego, co widać na obrazku. Poza zdobywaniem nowych umiejętności, hobby to uczy praktycznych rozwiązań, a także pracy z często nietypowymi materiałami. Zdarza się, że cosplayerzy kształcą się w dziedzinach, które pomagają im w rozwoju. Nawet w Polsce można spotkać wielu cosplayerów kształcących się na takich kierunkach jak krawiectwo, projektowanie ubioru czy wizaż. By w pełni wcielić się w postać, często o odmiennym kolorze włosów lub oczu, cosplayerzy zakładają peruki oraz szkła kontaktowe. Niezwykle ważna jest również charakteryzacja oraz makijaż.</p>
+
+<p> <b style="font-family:courier;">Zdarza się, że postać posiada broń lub różdżkę, takie elementy również wykonują cosplayerzy. W Polsce najpopularniejszymi materiałami używanymi do tego typu prac są: </b></p>
+
+<ul>
+  <li style="font-family:courier;">drewno</li>
+  <li style="font-family:courier;">styrodur</li>
+  <li style="font-family:courier;">termoplastyki</li>
+  <li style="font-family:courier;">druk 3D</li>
+</ul>  
+
+<a href="https://meteor.amu.edu.pl/jak-zaczac-przygode-z-cosplayem-cosfun-od-a-do-z/">
+<img src="click.png" alt="Jak zacząć przygodę z cosplayem?" style="width:42px;height:42px;">
+</a>
+
+<img src="cosp3.jpg" alt="cosplay" width="480" height="421">
+
+
+
+
+<h3 style="color:#203354;"> Konkursy i ocena strojów</h3>
+
+<p style="font-family:courier;">Konkursy na najlepszy strój oraz prezentacje odbywają się na praktycznie każdym konwencie związanym z grami wideo, kulturą azjatycką oraz fantastyką. Często są najważniejszym punktem programu, który gromadzi pod sceną tłumy. Kilka lat temu nagrodami były głównie punkty, które można było wymienić w konwentowym sklepie z gadżetami, obecnie najpopularniejsze są statuetki i medale, zdarzają się również nagrody pieniężne.</p>
+
+<p style="font-family:courier;">Największym konkursem w Polsce jest ‘Maskarada’, która odbywa się w ramach festiwalu fantastyki Pyrkon w Poznaniu. W każdej z kategorii konkursowych można wygrać nagrodę pieniężną, a od 2019 roku zdobywca nagrody Grand Prix zyskuje również prawo do reprezentowania Polski na konkursie międzynarodowym. ‘Maskarada’ od kilku lat odbywa się na Sali Ziemi, a transmisja z konkursu jest udostępniana na telebimach rozmieszczonych na terenie festiwalu. Za organizację konkursu odpowiada Zofia „Zula” Skowrońska.</p>
+
+<p style="font-family:courier;">Jury oceniające stroje składa się najczęściej z cosplayerów docenionych na konkursach międzynarodowych lub odbywających się w Polsce, a także osób znanych ze swoich strojów lub prezentacji. Często do jury zaprasza się również fotografów związanych z fandomem cosplayowym lub osoby, których wiedza może posłużyć w uczciwej i rzetelnej ocenie, np. rzemieślników.</p>
+
+<p style="font-family:courier;">Ocenie podlega zgodność stroju z grafiką referencyjną, różnorodność technik, poprawne wykonanie, a także zachowanie sceniczne, pomysł na zaprezentowanie się na scenie i odgrywanie postaci. Najpopularniejszymi kategoriami konkursowymi są najlepszy strój, najlepsza prezentacja i najlepsza prezentacja grupowa. Na części konkursów pojawiają się również takie kategorie jak największe podobieństwo do postaci, najlepszy strój postaci własnej, najlepsza charakteryzacja/makijaż czy najlepsza peruka.</p>
+
+<p><b style="font-family:courier;">Najpopularniejszymi wydarzeniami na których można wziąść udział w takich konkursach są:</b></p>
+
+<ol>
+  <li style="font-family:courier;">Pyrkon</li>
+  <li style="font-family:courier;">PGA</li>
+  <li style="font-family:courier;">IEM</li>
+  <li style="font-family:courier;">Magnificon</li>
+</ol> 
+
+<a href="https://pyrkon.pl/maskarada/">
+<img src="click.png" alt="Maskarada na pyrkonie - czyli jedno z najważniejszych wydarzeń cosplayowych" style="width:42px;height:42px;">
+</a>
+
+<img src="cosp2.jpg" alt="cosplay" width="512" height="223">
+
+
+</body>
+</html>
